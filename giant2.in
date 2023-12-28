@@ -1,0 +1,237 @@
+M 1000
+INSERT Hello
+INSERT World
+INSERT OpenAI
+INSERT ChatGPT
+INSERT Tokenization
+INSERT Hashing
+INSERT Collisions
+INSERT Separate
+INSERT Chaining
+INSERT Data
+INSERT Structures
+INSERT Algorithm
+INSERT Programming
+INSERT Language
+INSERT Model
+INSERT Text
+INSERT Number
+INSERT ASCII
+INSERT Function
+INSERT Key
+INSERT Universe
+INSERT Galaxy
+INSERT Star
+INSERT Planet
+INSERT Moon
+INSERT Comet
+INSERT Asteroid
+INSERT Nebula
+INSERT Blackhole
+INSERT Wormhole
+READ prepostera.txt
+STOK Hello World OpenAI ChatGPT _DONE_
+STOK Universe Galaxy Star Planet _DONE_
+STOK Moon Comet Asteroid Nebula _DONE_
+STOK Blackhole Wormhole _DONE_
+TOKS 1 2 3 4 -1
+TOKS 5 6 7 8 -1
+TOKS 9 10 11 12 -1
+TOKS 13 14 15 16 -1
+STOK Quantum Relativity Physics Chemistry _DONE_
+STOK Biology Mathematics Philosophy Literature _DONE_
+STOK History Geography Atom Molecule _DONE_
+STOK Electron Proton Neutron Element _DONE_
+TOKS 17 18 19 20 -1
+TOKS 21 22 23 24 -1
+TOKS 25 26 27 28 -1
+TOKS 29 30 31 32 -1
+STOK Compound Mixture Solution Suspension _DONE_
+STOK Reaction Equation Energy Force _DONE_
+STOK Motion Speed Velocity Acceleration _DONE_
+STOK Gravity Magnetism Electricity Current _DONE_
+TOKS 33 34 35 36 -1
+TOKS 37 38 39 40 -1
+TOKS 41 42 43 44 -1
+TOKS 45 46 47 48 -1
+STOK Voltage Resistance Capacitance Inductance _DONE_
+STOK Wave Frequency Amplitude Wavelength _DONE_
+STOK Photon Neutrino Boson Fermion _DONE_
+STOK Quark Lepton Meson Baryon _DONE_
+TOKS 49 50 51 52 -1
+TOKS 53 54 55 56 -1
+TOKS 57 58 59 60 -1
+TOKS 61 62 63 64 -1
+STOK Hadron Leptonic Mesonic Baryonic _DONE_
+STOK Gluon Graviton Higgs Muon _DONE_
+STOK Tau Pion Kaon Protonic _DONE_
+STOK Neutronic Electronical Positron _DONE_
+TOKS 65 66 67 68 -1
+TOKS 69 70 71 72 -1
+TOKS 73 74 75 76 -1
+TOKS 77 78 79 80 -1
+STOK Hello World Universe Galaxy _DONE_
+STOK Star Planet Moon Comet _DONE_
+STOK Asteroid Nebula Blackhole Wormhole _DONE_
+STOK Quantum Relativity Physics Chemistry _DONE_
+TOKS 1 2 3 4 -1
+TOKS 5 6 7 8 -1
+TOKS 9 10 11 12 -1
+TOKS 13 14 15 16 -1
+STOK Biology Mathematics Philosophy Literature _DONE_
+STOK History Geography Atom Molecule _DONE_
+STOK Electron Proton Neutron Element _DONE_
+STOK Compound Mixture Solution Suspension _DONE_
+TOKS 17 18 19 20 -1
+TOKS 21 22 23 24 -1
+TOKS 25 26 27 28 -1
+TOKS 29 30 31 32 -1
+STOK Reaction Equation Energy Force _DONE_
+STOK Motion Speed Velocity Acceleration _DONE_
+STOK Gravity Magnetism Electricity Current _DONE_
+STOK Voltage Resistance Capacitance Inductance _DONE_
+TOKS 33 34 35 36 -1
+TOKS 37 38 39 40 -1
+TOKS 41 42 43 44 -1
+TOKS 45 46 47 48 -1
+STOK Wave Frequency Amplitude Wavelength _DONE_
+STOK Photon Neutrino Boson Fermion _DONE_
+STOK Quark Lepton Meson Baryon _DONE_
+STOK Hadron Leptonic Mesonic Baryonic _DONE_
+TOKS 49 50 51 52 -1
+TOKS 53 54 55 56 -1
+TOKS 57 58 59 60 -1
+TOKS 61 62 63 64 -1
+STOK Gluon Graviton Higgs Muon _DONE_
+STOK Tau Pion Kaon Protonic _DONE_
+STOK Neutronic Electronical Positron _DONE_
+STOK Hello World Universe Galaxy _DONE_
+TOKS 65 66 67 68 -1
+TOKS 69 70 71 72 -1
+TOKS 73 74 75 76 -1
+TOKS 77 78 79 80 -1
+STOK Star Planet Moon Comet _DONE_
+STOK Asteroid Nebula Blackhole Wormhole _DONE_
+STOK Quantum Relativity Physics Chemistry _DONE_
+STOK Biology Mathematics Philosophy Literature _DONE_
+TOKS 1 2 3 4 -1
+TOKS 5 6 7 8 -1
+TOKS 9 10 11 12 -1
+TOKS 13 14 15 16 -1
+STOK History Geography Atom Molecule _DONE_
+STOK Electron Proton Neutron Element _DONE_
+STOK Compound Mixture Solution Suspension _DONE_
+STOK Reaction Equation Energy Force _DONE_
+TOKS 17 18 19 20 -1
+TOKS 21 22 23 24 -1
+TOKS 25 26 27 28 -1
+TOKS 29 30 31 32 -1
+STOK Motion Speed Velocity Acceleration _DONE_
+STOK Gravity Magnetism Electricity Current _DONE_
+STOK Voltage Resistance Capacitance Inductance _DONE_
+STOK Wave Frequency Amplitude Wavelength _DONE_
+TOKS 33 34 35 36 -1
+TOKS 37 38 39 40 -1
+TOKS 41 42 43 44 -1
+TOKS 45 46 47 48 -1
+STOK Photon Neutrino Boson Fermion _DONE_
+STOK Quark Lepton Meson Baryon _DONE_
+STOK Hadron Leptonic Mesonic Baryonic _DONE_
+STOK Gluon Graviton Higgs Muon _DONE_
+TOKS 49 50 51 52 -1
+TOKS 53 -1
+TOKS 53 54 55 56 -1
+TOKS 57 58 59 60 -1
+TOKS 61 62 63 64 -1
+STOK Tau Pion Kaon Protonic Neutronic _DONE_
+STOK Electronical Positron Hello World _DONE_
+STOK Universe Galaxy Star Planet _DONE_
+STOK Moon Comet Asteroid Nebula _DONE_
+TOKS 65 66 67 68 -1
+TOKS 69 70 71 72 -1
+TOKS 73 74 75 76 -1
+TOKS 77 78 79 80 -1
+STOK Blackhole Wormhole Quantum Relativity _DONE_
+STOK Physics Chemistry Biology Mathematics _DONE_
+STOK Philosophy Literature History Geography _DONE_
+STOK Atom Molecule Electron Proton _DONE_
+TOKS 81 82 83 84 -1
+TOKS 85 86 87 88 -1
+TOKS 89 90 91 92 -1
+TOKS 93 94 95 96 -1
+STOK Neutron Element Compound Mixture _DONE_
+STOK Solution Suspension Reaction Equation _DONE_
+STOK Energy Force Motion Speed _DONE_
+STOK Velocity Acceleration Gravity Magnetism _DONE_
+TOKS 97 98 99 100 -1
+TOKS 101 102 103 104 -1
+TOKS 105 106 107 108 -1
+TOKS 109 110 111 112 -1
+STOK Electricity Current Voltage Resistance _DONE_
+STOK Capacitance Inductance Wave Frequency _DONE_
+STOK Amplitude Wavelength Photon Neutrino _DONE_
+STOK Boson Fermion Quark Lepton _DONE_
+TOKS 113 114 115 116 -1
+TOKS 117 118 119 120 -1
+TOKS 121 122 123 124 -1
+TOKS 125 126 127 128 -1
+STOK Meson Baryon Hadron Leptonic _DONE_
+STOK Mesonic Baryonic Gluon Graviton _DONE_
+STOK Higgs Muon Tau Pion _DONE_
+STOK Kaon Protonic Neutronic Electronical _DONE_
+TOKS 129 130 131 132 -1
+TOKS 133 134 135 136 -1
+TOKS 137 138 139 140 -1
+TOKS 141 142 143 144 -1
+STOK Positron Hello World Universe _DONE_
+STOK Galaxy Star Planet Moon _DONE_
+STOK Comet Asteroid Nebula Blackhole _DONE_
+STOK Wormhole Quantum Relativity Physics _DONE_
+TOKS 145 146 147 148 -1
+TOKS 149 150 151 152 -1
+TOKS 153 154 155 156 -1
+TOKS 157 158 159 160 -1
+STOK Chemistry Biology Mathematics Philosophy _DONE_
+STOK Literature History Geography Atom _DONE_
+STOK Molecule Electron Proton Neutron _DONE_
+STOK Element Compound Mixture Solution _DONE_
+TOKS 161 162 163 164 -1
+TOKS 165 166 167 168 -1
+TOKS 169 170 171 172 -1
+TOKS 173 174 175 176 -1
+STOK Suspension Reaction Equation Energy _DONE_
+STOK Force Motion Speed Velocity _DONE_
+STOK Acceleration Gravity Magnetism Electricity _DONE_
+STOK Current Voltage Resistance Capacitance _DONE_
+TOKS 177 178 179 180 -1
+TOKS 181 182 183 184 -1
+TOKS 185 186 187 188 -1
+TOKS 189 190 191 192 -1
+STOK Inductance Wave Frequency Amplitude _DONE_
+STOK Wavelength Photon Neutrino Boson _DONE_
+STOK Fermion Quark Lepton Meson _DONE_
+STOK Baryon Hadron Leptonic Mesonic _DONE_
+TOKS 193 194 195 196 -1
+TOKS 197 198 199 200 -1
+READ prepostera.txt
+INSERT Prepostera
+INSERT Analysis
+INSERT Results
+INSERT Conclusion
+STOK Prepostera is a unique dataset for analysis _DONE_
+TOKENIZE Prepostera
+TOKENIZE Analysis
+TOKENIZE Results
+TOKENIZE Conclusion
+RETRIEVE 205
+RETRIEVE 206
+RETRIEVE 207
+RETRIEVE 208
+PRINT 205
+PRINT 206
+PRINT 207
+PRINT 208
+TOKS 205 206 207 208 -1
+STOK The analysis of Prepostera yielded interesting results _DONE_
+TOKS 209 210 211 212 213 -1
+EXIT
